@@ -1,0 +1,1 @@
+/* Trip detail dynamic page */
