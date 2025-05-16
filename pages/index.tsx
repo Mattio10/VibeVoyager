@@ -1,1 +1,0 @@
-/* Homepage content goes here (React component) */
