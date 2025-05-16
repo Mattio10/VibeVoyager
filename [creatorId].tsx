@@ -1,1 +1,0 @@
-/* Creator profile dynamic page */
